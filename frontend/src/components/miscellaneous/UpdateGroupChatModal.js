@@ -104,7 +104,7 @@ const UpdateGroupChatModal = ({ fetchMessages, fetchAgain, setFetchAgain }) => {
   const handleAddUser = async (user1) => {
     if (selectedChat.users.find((u) => u._id === user1._id)) {
       toast({
-        title: "User Already in group!",
+        title: "User is already in the group!",
         status: "error",
         duration: 5000,
         isClosable: true,

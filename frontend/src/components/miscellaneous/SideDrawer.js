@@ -59,7 +59,7 @@ function SideDrawer() {
   const handleSearch = async () => {
     if (!search) {
       toast({
-        title: "Please search something",
+        title: "Please search for a user",
         status: "warning",
         duration: 5000,
         isClosable: true,
@@ -208,7 +208,9 @@ function SideDrawer() {
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
               />
-              <Button onClick={handleSearch}>Go</Button>
+              <Button bg="#ACE1AF" onClick={handleSearch}>
+                Find
+              </Button>
             </Box>
             {loading ? (
               <ChatLoading />

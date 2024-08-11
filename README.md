@@ -34,8 +34,14 @@ The application will be running on http://localhost:3000.
 
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/8ef819ed-ea5d-4ae2-9c83-8ee30250f37f)
-![image](https://github.com/user-attachments/assets/4469bab9-842b-48f7-8c33-f6002f2c7011)
-![image](https://github.com/user-attachments/assets/11adf5ac-13aa-48fb-a9f8-5bfc1d4d72a1)
-![image](https://github.com/user-attachments/assets/0882dc5a-90f0-4a0f-ad5e-7e65abc335c7)
+![image](https://github.com/user-attachments/assets/0c9445e1-f68d-4d6e-add5-f29fab1ac671)
+![image](https://github.com/user-attachments/assets/fa1f01d3-559f-4850-9163-5bdfca0187da)
+![image](https://github.com/user-attachments/assets/5c28e3c3-3cba-49b1-96b5-42a6f8c4b143)
+![image](https://github.com/user-attachments/assets/aaeaaabb-b130-4254-821e-4bf606515158)
+![image](https://github.com/user-attachments/assets/98571798-6433-4735-ba73-215f6709275f)
+![image](https://github.com/user-attachments/assets/99488c97-1b4a-4193-a1e9-fbbbd4ff8c45)
+![image](https://github.com/user-attachments/assets/974db639-0aac-44b7-a86f-09ae0711f66e)
+
+
+
 
